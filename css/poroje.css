@@ -19,9 +19,9 @@ ul{
     list-style-type: none;
 }
 .continer{
-    width: 90%;
+    width: 100%;
     max-width: 1100px;
-    margin: auto;
+    margin: 30px;
 }
 /* nav*/
 .main-nav{
@@ -31,6 +31,7 @@ ul{
     height: 60px;
     padding: 20px 0;
     font-size: 13;
+    
 }
 .main-nav .logo{
 width: 110px;
@@ -56,10 +57,11 @@ width: 110px;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin:  90px;
 }
 .nav-icon1{
     
-  margin-left: 15px;
+  margin-left: 20px;
 }
 .btn{
     display: inline-block;
@@ -79,9 +81,9 @@ width: 110px;
     display: flex;
     flex-direction: column;
     height: 500px;
-    width: 100%;
+    width: 110%;
     text-align: left;
-    background: url(/img/Highlight-Test-Surface-Pro-9-Platinum-Attract\ VP4-1399x600_4_11zon.jpg) no-repeat center/cover;
+    background: url(/img/Highlight-Test-Surface-Pro-9-Platinum-Attract\ VP4-1399x600_4_11zon.jpg) no-repeat center center/cover;
 }
 .pre{
     font-family: Segoe UI, SegoeUI, Arial, sans-serif;
@@ -117,7 +119,7 @@ padding-top: 15px;
     
    
     margin-top: 150px;
-    margin-left: 100px;
+    margin-left: 30px;
     width: 90%;
     max-width: 900px;
 }
@@ -187,9 +189,10 @@ text-align: center;
 /*xbox*/
 .xbox{
     width: 100%;
-    height: 550px;
+    height: 750px;
     background: url(/img/gldn-2.jpg) no-repeat  center/cover;
-    margin-top: 20px;
+    margin: 20px;
+  
 }
  .xbox .content{
     width: 40%;
